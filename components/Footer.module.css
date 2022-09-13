@@ -7,6 +7,15 @@
   align-items: center;
 }
 
+.fusion-footer-copyright-area {
+    --copyright_padding-top: 20px;
+    --copyright_padding-bottom: 20px;
+    --copyright_bg_color: #282a2b;
+    --copyright_border_size: 1px;
+    --copyright_border_color: #4b4c4d;
+    --copyright_link_color_hover: #03a9f4;
+}
+
 .logo {
   height: 1em;
   margin: 5px;
