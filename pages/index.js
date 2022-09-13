@@ -8,6 +8,7 @@ export default function Home() {
       <Head>
         <title>Primer Certamen Micrometrajes Mediona</title>
         <link rel="icon" href="/favicon.ico" />
+        <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
       </Head>
 
       <main>
