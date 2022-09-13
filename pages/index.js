@@ -11,9 +11,13 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Bienvenido al primer certament de Micrometrajes de Mediona 2022" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+             Se cumple el primer aniversario desde que “Cineclub Mediona” hecho andar. A modo de celebración, habiamos pensado hacer algo especial.
+             Así que os presentamos el primer certamen de micrometrajes de Mediona. 
+             Su objetivo fundamental es animar a participar de este medio creativo a todos los habitantes de Mediona 
+             Se cumple el primer aniversario desde que “Cineclub Mediona” hecho andar. A modo de celebración, habiamos pensado hacer algo especial.os presentamos el primer certamen de micrometrajes 
+             o vecinos del Penedés. Más noticias pronto...
         </p>
       </main>
 
