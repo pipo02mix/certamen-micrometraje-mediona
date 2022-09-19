@@ -19,13 +19,9 @@ export default function Home() {
 				<li><a href="/bases">Bases</a></li>
 				<li><a href="/">Contacto</a></li>
 			</ul>
-      
+
       <main>
-        <h1 className="title">Certamen Amateur (µ)metrajes Mediona</h1>
-        <p className="description">Es compleix el primer aniversari des que “Cineclub Mediona” va començar a caminar. Com a celebració, havíem pensat fer alguna cosa especial.</p>< br/>
-        <p className="description">Així que us presentem el primer certamen de micrometratges de Mediona.</p>< br/>
-        <p className="description">El seu objectiu fonamental és animar tots els habitants de Mediona a participar d'aquest mitjà creatiu sense importar edat o condició.</p>< br/>
-        <p className="description">Consulta les nostres bases i apunta't!</p>
+        <p className="description">Contacto</p>
       </main>
 
       <Footer />
