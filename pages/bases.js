@@ -22,40 +22,38 @@ export default function Home() {
 
       <main>
       <h3>BASES</h3>
-      <p><b>1.- </b>
-        Se podr&aacute; inscribir cualquier persona sin importar edad, incluso siendo un proyecto conjunto, siempre que se resida en l&rsquo; Alt Pened&eacute;s.
+      <p>1.- Es podr&agrave; inscriure qualsevol persona sense importar edat, fins i tot sent un projecte conjunt, sempre que es resideixi al municipi de Mediona.
       </p>
-      <p>2.- La tem&aacute;tica del micrometraje ser&aacute; totalmente libre pero hemos pensado para esta edici&oacute;n que en toda propuesta deber&aacute; aparecer en alg&uacute;n momento del metraje una alusi&oacute;n al mundo rural.</p>
-      <p>3.-Los cortometrajes presentados podr&aacute;n ser registrados con cualquier dispositivo de grabaci&oacute;n: c&aacute;mara de tel&eacute;fono m&oacute;vil, c&aacute;mara fotogr&aacute;fica digital, tablet, videoc&aacute;mara etc, pudiendo luego editarse con herramientas externas (ver consejos).</p>
-      <p>3.- La duraci&oacute;n del micrometraje deber&aacute; ser mayor de 60 segundos y menor de 180.</p>
-      <p>4.- Todo micrometraje deber&aacute; incluir un t&iacute;tulo y adem&aacute;s unos cr&eacute;ditos en los que aparezcan reflejados los autores y participantes en el mismo.</p>
-      <p>5.- Se aceptar&aacute;n propuestas tanto de car&aacute;cter narrativo como experimental.</p>
-      <p>6.- A ser posible, las propuestas deber&aacute;n ser grabadas en la m&aacute;xima resoluci&oacute;n y calidad posibles. </p>
-      <p>Los formatos de archivo pueden ser MOV, MPEG4, AVI, WMV, MPEGPS, FLV, 3GPP, WebM.</p>
-      <p>7.- La inscripci&oacute;n es gratuita y puede realizarse rellenando el siguiente formulario.</p>
-      <p><b>FECHAS</b></p>
-      <p>La fecha del certamen es el 8 de noviembre a las 18:00h en el teatro de Sant Joan de Mediona.</p>
-      <p>La fecha l&iacute;mite para presentar la propuesta ser&aacute; el pr&oacute;ximo 31 de octubre.&nbsp;</p>
-      <p><b>PREMIOS</b></p>
-      <p>Se configurar&aacute; un jurado independiente, compuesto por un miembro vinculado profesionalmente al &aacute;mbito cinematogr&aacute;fico, un representante del Ayuntamientoy un miembro del cineclub &ldquo;Vilafranca&rdquo;.</p>
-      <p>Se otorgar&aacute; un &uacute;nico premio compuesto por:&nbsp;</p>
+      <p>2.- La temàtica del micrometratge serà totalment lliure, però hem pensat que per a aquesta edició tota proposta haurà d'aparèixer en algun moment del metratge una al·lusió al món rural.</p>
+      <p>3.- Els curtmetratges presentats podran enregistrats amb qualsevol dispositiu d'enregistrament: càmera de telèfon mòbil, càmera fotogràfica digital, tablet, càmera de vídeo etc, podent després editar-se amb eines externes (<a href="#consells">"veure consells</a>).</p>
+      <p>4.- La durada del metratge haurà de ser més gran de 60 segons i menor de 180.</p>
+      <p>5.- Tot projecte haurà d'incloure un títol i a més a més uns crèdits en què apareguin reflectits els autors i participants.</p>
+      <p>6.- S'acceptaran propostes tant de caràcter narratiu com experimental.</p>
+      <p>7.- Les propostes hauran de ser enregistrades en la màxima resolució i qualitat possible. </p>
+      <p>8.- Els formats permesos són MOV, MPEG4, AVI, WMV, MPEGPS, FLV, 3GPP, WebM tenint en compte no excedir els 2GB.</p>
+      <p>9.- La inscripció és gratuïta i es pot fer emplenant el següent <a href="https://forms.gle/UV1pqZ7uVy2kBvNv7" target="_blank" rel="noopener noreferrer">formulari</a>.</p>
+      <p><b>DATES</b></p>
+      <p>La data del certamen és el 8 de novembre a les 18:00h al teatre de Sant Joan de Mediona.</p>
+      <p>La data l&iacute;mit per presentar la proposta ser&agrave; el proper 31 doctubre.</p>
+      <p><b>PREMIS</b></p>
+      <p>Es configurar&agrave; un jurat independent, format per membres vinculat professionalment a l&agrave;mbit cinematogr&agrave;fic.</p>
+      <p>S'atorgarà un únic premi compost per:</p>
       <ol>
-      <li> - Trofeo personalizado realizado por el ceramista Juan Pach&oacute;n..</li>
+      <li>- Trofeu personalitzat realitzat pel ceramista Juan Pach&oacute;n.</li>
+      <li>- Una subscripci&oacute; trimestral al Cine Club Vilafranca.</li>
+      <li>- Una inscripció a un curs en línia de la plataforma Doméstika vinculat amb l'àmbit cinematogràfic.</li>
       </ol>
-      <p>2.- Una botella de vino de la bodega Jean Le&oacute;n.</p>
-      <p>3.- Una suscripci&oacute;n trimestral al Cineclub Vilafranca.</p>
-      <p>4.- Una inscripci&oacute;n a un curso on-line de la plataforma Dom&eacute;stika vinculado con el &aacute;mbito cinematogr&aacute;fico. (?)&nbsp;</p>
       <p><br /><br /></p>
-      <p><b>CONSEJOS</b></p>
+      <p><b>CONSELLS</b></p>
       <ol>
-      <li aria-level="1">Para la edici&oacute;n de video dejamos a continuaci&oacute;n una serie de herramientas que os pueden ser de ayuda:</li>
+      <li aria-level="1">Per a l&apos;edici&oacute; de v&iacute;deo deixem a continuaci&oacute; una s&egrave;rie d&apos;eines que us poden ajudar:</li>
       <ol>
-      <li aria-level="2">(M&oacute;vil) La aplicaci&oacute;n gratuita <a href="https://play.google.com/store/apps/details?id=com.camerasideas.instashot&amp;hl=es_419&amp;gl=US">InShot</a>. Puedes usar como referencia<a href="https://www.youtube.com/watch?v=iJjXVLIq6m4"> este tutorial</a>.</li>
-      <li aria-level="2">(Escritorio Windows) Por defecto Windows viene con <a href="https://www.youtube.com/watch?v=Ms_KUYH019Y">Movie Maker</a> para versiones antigua y <a href="https://www.youtube.com/watch?v=TzY_W9uAsmE">Fotos</a> para window 10 y 11. Ambas son f&aacute;ciles de usar.</li>
-      <li aria-level="2">(Escritorio Mac) La aplicaci&oacute;n incluida por defecto en todos Mac <a href="https://www.apple.com/es/imovie/">iMovie</a>. Puedes ver una introducci&oacute;n<a href="https://www.youtube.com/watch?v=X0otrV9teww"> al programa aqu&iacute;</a>.&nbsp;</li>
-      <li aria-level="2">Obviamente si tienes conocimientos de un programa de edici&oacute;n profesional te apoyamos para que lo uses, aunque buscamos historias frescas y creativas aunque a nivel de montaje no sean perfectas.</li>
+      <li aria-level="2">(M&ograve;bil) L&apos;aplicaci&oacute; gratu&iuml;ta <a href="https://play.google.com/store/apps/details?id=com.camerasideas.instashot&amp;hl=es_419&amp;gl=US">InShot</a>. Pots fer servir com a refer&egrave;ncia <a href="https://www.youtube.com/watch?v=iJjXVLIq6m4"> aquest tutorial.</a>.</li>
+      <li aria-level="2">(Escriptori Windows) Per defecte Windows ve amb <a href="https://www.youtube.com/watch?v=Ms_KUYH019Y">Movie Maker</a> per a versions antigas i <a href="https://www.youtube.com/watch?v=TzY_W9uAsmE">Fotos</a> per a window 10 i 11. Totes dues s&oacute;n f&agrave;cils d&apos;usar.</li>
+      <li aria-level="2">(Escriptori Mac) L&apos;aplicaci&oacute; inclosa per defecte a tots Mac <a href="https://www.apple.com/es/imovie/">iMovie</a>. . Podeu veure una introducci&oacute<a href="https://www.youtube.com/watch?v=X0otrV9teww"> al programa aqu&iacute;</a>.&nbsp;</li>
+      <li aria-level="2">O&Ograve;bviament si tens coneixements d&apos;un programa d&apos;edici&oacute; professional et donem suport perqu&egrave; el facis servir, encara que busquem hist&ograve;ries fresques i creatives encara que a nivell de muntatge no siguin perfectes.</li>
       </ol>
-      <li aria-level="1">Se da total libertad durante la filmaci&oacute;n para utilizar cualquier elemento, sea un tripode o estabilizador de c&aacute;mara como tambi&eacute;n equipos de grabaci&oacute;n de audio.</li>
+      <li aria-level="1">Es d&oacute;na total llibertat durant la filmaci&oacute; per utilitzar qualsevol element, sigui un tripode o estabilitzador de c&agrave;mera com tamb&eacute; equips d&apos;enregistrament d&apos;&agrave;udio.</li>
       </ol>
       </main>
 

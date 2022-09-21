@@ -17,11 +17,11 @@ export default function Home() {
       <ul>
 				<li><a href="/">Inicio</a></li>
 				<li><a href="/bases">Bases</a></li>
-				<li><a href="/">Contacto</a></li>
+				<li></li>
 			</ul>
 
       <main>
-        <p className="description">Contacto</p>
+        <p className="description">Pots posar-te en contacte amb nosaltres escrivint un email a <a href="mailto:preguntas@ficciona.info">preguntas@ficciona.info</a></p>
       </main>
 
       <Footer />
