@@ -15,9 +15,9 @@ export default function Home() {
       </Head>
 
       <ul>
-				<li><a href="/">Inicio</a></li>
+				<li><a href="/">Inici</a></li>
 				<li><a href="/bases">Bases</a></li>
-				<li><a href="/">Contacto</a></li>
+				<li><a href="/contacte">Contacte</a></li>
 			</ul>
 
       <main>
