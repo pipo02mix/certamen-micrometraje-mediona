@@ -9,6 +9,10 @@ body {
   background: linear-gradient(90deg, rgba(151,186,127,1) 35%, rgba(11,137,90,1) 100%); 
 }
 
+a {
+  color: bisque;
+}
+
 ul {
   list-style-type: none;
   margin: 0;

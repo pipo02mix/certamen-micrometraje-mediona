@@ -25,7 +25,7 @@ export default function Home() {
       <p>1.- Es podr&agrave; inscriure qualsevol persona sense importar edat, fins i tot sent un projecte conjunt, sempre que es resideixi al municipi de Mediona.
       </p>
       <p>2.- La temàtica del micrometratge serà totalment lliure, però hem pensat que per a aquesta edició tota proposta haurà d'aparèixer en algun moment del metratge una al·lusió al món rural.</p>
-      <p>3.- Els curtmetratges presentats podran enregistrats amb qualsevol dispositiu d'enregistrament: càmera de telèfon mòbil, càmera fotogràfica digital, tablet, càmera de vídeo etc, podent després editar-se amb eines externes (<a href="#consells">"veure consells</a>).</p>
+      <p>3.- Els curtmetratges presentats podran enregistrats amb qualsevol dispositiu d'enregistrament: càmera de telèfon mòbil, càmera fotogràfica digital, tablet, càmera de vídeo etc, podent després editar-se amb eines externes (<a href="#consells">veure consells</a>).</p>
       <p>4.- La durada del metratge haurà de ser més gran de 60 segons i menor de 180.</p>
       <p>5.- Tot projecte haurà d'incloure un títol i a més a més uns crèdits en què apareguin reflectits els autors i participants.</p>
       <p>6.- S'acceptaran propostes tant de caràcter narratiu com experimental.</p>
@@ -44,7 +44,7 @@ export default function Home() {
       <li>- Una inscripció a un curs en línia de la plataforma Doméstika vinculat amb l'àmbit cinematogràfic.</li>
       </ol>
       <p><br /><br /></p>
-      <p><b>CONSELLS</b></p>
+      <p id="consells"><b>CONSELLS</b></p>
       <ol>
       <li aria-level="1">Per a l&apos;edici&oacute; de v&iacute;deo deixem a continuaci&oacute; una s&egrave;rie d&apos;eines que us poden ajudar:</li>
       <ol>
