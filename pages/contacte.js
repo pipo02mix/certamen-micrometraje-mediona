@@ -21,7 +21,7 @@ export default function Home() {
 			</ul>
 
       <main>
-        <p className="description">Pots posar-te en contacte amb nosaltres escrivint un email a <a href="mailto:preguntas@ficciona.info">preguntas@ficciona.info</a></p>
+        <p className="description">Pots posar-te en contacte amb nosaltres escrivint un email a <a href="mailto:preguntes@ficciona.info">preguntes@ficciona.info</a></p>
       </main>
 
       <Footer />
