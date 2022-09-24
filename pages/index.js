@@ -14,6 +14,8 @@ export default function Home() {
         <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
       </Head>
 
+      <h1>FICCIONA</h1>
+      
       <ul>
 				<li><a href="/">Inici</a></li>
 				<li><a href="/bases">Bases</a></li>

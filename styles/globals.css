@@ -13,6 +13,10 @@ a, a:visited {
   color: bisque;
 }
 
+h1 {
+  font-family: Syncopate, Monaco, Lucida Console, Courier New, monospace;
+}
+
 ul {
   list-style-type: none;
   margin: 0;

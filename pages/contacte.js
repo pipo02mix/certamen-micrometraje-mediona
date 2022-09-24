@@ -13,6 +13,8 @@ export default function Home() {
         <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Outfit:wght@300;400&display=swap" rel="stylesheet"></link>
         <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
       </Head>
+      
+      <h1>FICCIONA</h1>
 
       <ul>
 				<li><a href="/">Inici</a></li>

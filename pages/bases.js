@@ -11,6 +11,7 @@ export default function Home() {
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
         <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Outfit:wght@300;400&display=swap" rel="stylesheet"></link>
+        <link href="https://fonts.googleapis.com/css2?family=Syncopate:wght@300&family=Syncopate:wght@300;400&display=swap" rel="stylesheet"></link>
         <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
       </Head>
 
@@ -19,6 +20,8 @@ export default function Home() {
 				<li><a href="/bases">Bases</a></li>
 				<li><a href="/contacte">Contacte</a></li>
 			</ul>
+
+      <h1>FICCIONA</h1>
 
       <main>
       <h3>BASES</h3>
