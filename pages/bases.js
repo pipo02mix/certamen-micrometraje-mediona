@@ -39,7 +39,7 @@ export default function Home() {
       <p>La data del certamen és el 8 de novembre a les 18:00h al teatre de Sant Joan de Mediona.</p>
       <p>La data l&iacute;mit per presentar la proposta ser&agrave; el proper 31 doctubre.</p>
       <p><b>PREMIS</b></p>
-      <p>Es configurar&agrave; un jurat independent, format per membres vinculat professionalment a l&agrave;mbit cinematogr&agrave;fic.</p>
+      <p>Es configurar&agrave; un jurat independent, format per membres vinculat professionalment a l'àmbit cinematogr&agrave;fic.</p>
       <p>S'otorgarà un únic premi compost per:</p>
       <ol>
       <li>- Trofeu personalitzat realitzat pel ceramista Juan Pach&oacute;n.</li>
