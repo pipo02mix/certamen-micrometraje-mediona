@@ -40,11 +40,11 @@ export default function Home() {
       <p>La data l&iacute;mit per presentar la proposta ser&agrave; el proper 31 doctubre.</p>
       <p><b>PREMIS</b></p>
       <p>Es configurar&agrave; un jurat independent, format per membres vinculat professionalment a l&agrave;mbit cinematogr&agrave;fic.</p>
-      <p>S'atorgarà un únic premi compost per:</p>
+      <p>S'otorgarà un únic premi compost per:</p>
       <ol>
       <li>- Trofeu personalitzat realitzat pel ceramista Juan Pach&oacute;n.</li>
       <li>- Una subscripci&oacute; trimestral al Cine Club Vilafranca.</li>
-      <li>- Una inscripció a un curs en línia de la plataforma Doméstika vinculat amb l'àmbit cinematogràfic.</li>
+      <li>- Una inscripció a un curs en línia de la plataforma Doméstika vinculat amb l'&agrave;mbit cinematogràfic.</li>
       </ol>
       <p><br /><br /></p>
       <p id="consells"><b>CONSELLS</b></p>
