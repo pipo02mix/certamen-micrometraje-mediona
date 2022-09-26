@@ -11,17 +11,18 @@ export default function Home() {
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
         <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Outfit:wght@300;400&display=swap" rel="stylesheet"></link>
+        <link href="https://fonts.googleapis.com/css2?family=Syncopate:wght@300&family=Syncopate:wght@300;400&display=swap" rel="stylesheet"></link>
         <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
       </Head>
 
-      <h1>FICCIONA</h1>
-      
       <ul>
 				<li><a href="/">Inici</a></li>
 				<li><a href="/bases">Bases</a></li>
 				<li><a href="/contacte">Contacte</a></li>
 			</ul>
-      
+
+      <h1>FICCIONA</h1>
+            
       <main>
         <h1 className="title">Certamen Amateur (µ)metrajes Mediona</h1>
         <p className="description">Es compleix el primer aniversari des que “Cineclub Mediona” va començar a caminar. Com a celebració, havíem pensat fer alguna cosa especial.</p>
