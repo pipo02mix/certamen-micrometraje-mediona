@@ -42,7 +42,7 @@ export default function Home() {
       <p>Es configurar&agrave; un jurat independent, format per membres vinculat professionalment a l'àmbit cinematogr&agrave;fic.</p>
       <p>S'otorgarà un únic premi compost per:</p>
       <ol>
-      <li>- Trofeu personalitzat realitzat pel ceramista Juan Pach&oacute;n.</li>
+      <li>- Trofeu personalitzat realitzat per a l'ocasi&oacute;.</li>
       <li>- Una subscripci&oacute; trimestral al Cine Club Vilafranca.</li>
       <li>- Una inscripció a un curs en línia de la plataforma Doméstika vinculat amb l'&agrave;mbit cinematogràfic.</li>
       </ol>
