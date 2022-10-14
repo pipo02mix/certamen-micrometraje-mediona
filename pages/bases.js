@@ -36,7 +36,7 @@ export default function Home() {
       <p>8.- Els formats permesos són MOV, MPEG4, AVI, WMV, MPEGPS, FLV, 3GPP, WebM tenint en compte no excedir els 2GB.</p>
       <p>9.- La inscripció és gratuïta i es pot fer emplenant el següent <a href="https://forms.gle/UV1pqZ7uVy2kBvNv7" target="_blank" rel="noopener noreferrer">formulari</a>.</p>
       <p><b>DATES</b></p>
-      <p>La data del certamen és el diumenge 6 de novembre a les 18:00h al teatre de Sant Joan de Mediona.</p>
+      <p>La data del certamen és el diumenge 6 de novembre a les 18:00h al Casal de Cases Novas (Mediona).</p>
       <p>La data l&iacute;mit per presentar la proposta ser&agrave; el proper 31 doctubre.</p>
       <p><b>PREMIS</b></p>
       <p>Es configurar&agrave; un jurat independent, format per membres vinculat professionalment a l'àmbit cinematogr&agrave;fic.</p>
